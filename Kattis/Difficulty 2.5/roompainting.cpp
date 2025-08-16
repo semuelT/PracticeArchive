@@ -35,7 +35,7 @@ int main() {
   }
 
   sort(kalengcat.begin(), kalengcat.end());
-  for (auto e : catbutuh) {
+  for (int e : catbutuh) {
     // int idx = binarysearch(0, n - 1, e, kalengcat);
     auto idx =
         lower_bound(kalengcat.begin(), kalengcat.end(), e) - kalengcat.end();

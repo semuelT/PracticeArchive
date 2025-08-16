@@ -4,8 +4,8 @@
 ### Goals
 
 - [x] Do 5 Kattis diff 1.8 problems.
-- [ ] Do 5 Kattis diff 2.4 problems.
-- [ ] Reach Kattis diff 3 before 17 August.
-
+- [x] Do 5 Kattis diff 2.4 problems.
+~~- [ ] Reach Kattis diff 3 before 18 August.~~
+- [ ] Do all TLX OSN-P 2024 and 2023.
 ### Milestone
 > None yet.
